@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30104778526",
+    "firebase_url": "https://sindu-project.firebaseio.com",
+    "project_id": "sindu-project",
+    "storage_bucket": "sindu-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30104778526:android:66d6f9043f0831c8827b0f",
+        "android_client_info": {
+          "package_name": "com.example.sindu_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30104778526-gjuf2gjujseh9q7to6tdoqplkn84pht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KhCJPsJkb2lhOub1Gh-lFpzv253Esp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30104778526-gjuf2gjujseh9q7to6tdoqplkn84pht9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
